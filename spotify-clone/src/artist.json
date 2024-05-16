@@ -1,0 +1,97 @@
+{
+    "name": "Músicas",
+    "albumCover": "/images/icons/albumCovers/unnamed.jpg",
+    "releaseYear": "2024",
+    "tracks": [
+        {
+            "id": 1,
+            "name": "Axwell Ingrosso - More Than You Know",
+            "path": "/songs/Axwell Ingrosso - More Than You Know.mp3"
+        },
+        {
+            "id": 2,
+            "name": "Bárbara Bandeira - Carro (feat. Dillaz)",
+            "path": "/songs/Bárbara Bandeira - Carro (feat. Dillaz).mp3"
+        },
+        {
+            "id": 3,
+            "name": "BISPO - Planeta ft. Bárbara Tinoco",
+            "path": "/songs/BISPO - Planeta ft. Bárbara Tinoco.mp3"
+        },
+        {
+            "id": 4,
+            "name": "D.A.M.A - Loucamente feat. Los Romeros",
+            "path": "/songs/D.A.M.A - Loucamente feat. Los Romeros.mp3"
+        },
+        {
+            "id": 5,
+            "name": "Dillaz - Alô (feat. Plutónio)",
+            "path": "/songs/Dillaz - Alô (feat. Plutónio).mp3"
+        },
+        {
+            "id": 6,
+            "name": "Dillaz - Direção Paris",
+            "path": "/songs/Dillaz - Direção Paris.mp3"
+        },
+        {
+            "id": 7,
+            "name": "Dillaz - Nota 100 (feat. Julinho KSD)",
+            "path": "/songs/Dillaz - Nota 100 (feat. Julinho KSD).mp3"
+        },
+        {
+            "id": 8,
+            "name": "Dillaz X Lhast - Gravidade",
+            "path": "/songs/Dillaz X Lhast - Gravidade.mp3"
+        },
+        {
+            "id": 9,
+            "name": "DJ Khaled - Im The One ft. Justin Bieber, Quavo, Chance the Rapper, Lil Wayne",
+            "path": "/songs/DJ Khaled - Im The One ft. Justin Bieber, Quavo, Chance the Rapper, Lil Wayne.mp3"
+        },
+        {
+            "id": 10,
+            "name": "Guns N Roses - Sweet Child O Mine",
+            "path": "/songs/Guns N Roses - Sweet Child O Mine (Official Music Video).mp3"
+        },
+        {
+            "id": 11,
+            "name": "Havemos de ir a Viana - AmÁlia Rodrigues",
+            "path": "/songs/havemos de ir a viana - amalia rodrigues.mp3"
+        },
+        {
+            "id": 12,
+            "name": "jingle.tm - remix  LON3R JOHNY, Richie Campbell, Plutonio, ProfJam, Van Zee, Lhast",
+            "path": "/songs/jingle.tm - remix  LON3R JOHNY, Richie Campbell, Plutonio, ProfJam, Van Zee, Lhast.mp3"
+        },
+        {
+            "id": 13,
+            "name": "Mizzy Miles - Bênção feat. Van Zee & Bispo",
+            "path": "/songs/Mizzy Miles - Bênção feat. Van Zee & Bispo.mp3"
+        },
+        {
+            "id": 14,
+            "name": "Mizzy Miles - EUROPA feat. Deejay Telio, Teto & Gson",
+            "path": "/songs/Mizzy Miles - EUROPA feat. Deejay Telio, Teto & Gson.mp3"
+        },
+        {
+            "id": 15,
+            "name": "Post Malone - I Had Some Help ft. Morgan Wallen",
+            "path": "/songs/Post Malone - I Had Some Help (Lyrics) ft. Morgan Wallen.mp3"
+        },
+        {
+            "id": 16,
+            "name": "Post Malone - Sunflower ft. Swae Lee",
+            "path": "/songs/Post Malone - Sunflower (Lyrics) ft. Swae Lee.mp3"
+        },
+        {
+            "id": 17,
+            "name": "Post Malone - I Fall Apart",
+            "path": "/songs/Post Malone - I Fall Apart (Lyrics).mp3"
+        },
+        {
+            "id": 18,
+            "name": "Van Zee - Senti Tanto",
+            "path": "/songs/Van Zee - Senti Tanto (Prod. Nort) (Official Music Video).mp3"
+        }
+    ]
+}
